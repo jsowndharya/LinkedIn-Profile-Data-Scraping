@@ -18,3 +18,21 @@ You can install this package using pip:
 
 ```sh
 pip install requests
+
+
+
+## Instructions for Script Usage
+
+1. **Set Up**:
+    - Replace `YOUR_API_KEY_HERE` with your actual Proxycurl API key in the script.
+    - Ensure you have the `requests` library installed.
+
+2. **Run the Script**:
+    - Save the script to a file, for example, `fetch_linkedin_profile.py`.
+    - Execute the script using Python:
+      ```sh
+      python fetch_linkedin_profile.py
+      ```
+
+This README file provides clear instructions on setting up and running the script, as well as an example script to help users understand how to use the Proxycurl API to fetch LinkedIn profile data.
+
